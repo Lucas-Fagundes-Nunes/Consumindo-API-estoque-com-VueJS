@@ -8,6 +8,13 @@ API utilizada está no repositório: ***https://github.com/Lucas-Fagundes-Nunes/
 
 Foi utilizada apenas uma página com todos os componentes necessários, tanto para envio como leitura, atualização...
 
+##### Linguagens Utilizadas
+* HTML
+* CSS
+* MATERIALIZE
+* JAVASCRIPT
+* VUE
+
 ##### DADOS DA API
 * ID
 * Código do produto ( Para utilizar leitor de código de barras )
